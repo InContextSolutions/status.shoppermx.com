@@ -23,6 +23,12 @@ sites:
   - name: OIDC / SSO
     url: https://sso.shoppermx.io/version
     type: globalping
+  - name: HeartbeatService API
+    url: https://prod-heartbeat.shoppermx.com/
+    type: globalping
+  - name: Identity API
+    url: https://identity.shoppermx.com/Service.svc
+    type: globalping
 
 status-website:
   cname: status.shoppermx.com
