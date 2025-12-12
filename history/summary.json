@@ -16,5 +16,41 @@
     "timeMonth": 403,
     "timeYear": 403,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "ShopperMX",
+    "url": "https://www.shoppermx.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.shoppermx.com.ico",
+    "slug": "shopper-mx",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Help Site",
+    "url": "https://help.shoppermx.com",
+    "icon": "https://icons.duckduckgo.com/ip3/help.shoppermx.com.ico",
+    "slug": "help-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1450,
+    "timeDay": 1450,
+    "timeWeek": 1450,
+    "timeMonth": 1450,
+    "timeYear": 1450,
+    "dailyMinutesDown": {}
   }
 ]
