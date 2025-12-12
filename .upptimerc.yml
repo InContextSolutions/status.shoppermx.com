@@ -20,6 +20,9 @@ sites:
   - name: PlayerInfoService API
     url: https://prod-incontext-playerinfoservice-webapi.azurewebsites.net
     type: globalping
+  - name: OIDC / SSO
+    url: https://sso.shoppermx.io/version
+    type: globalping
 
 status-website:
   cname: status.shoppermx.com
