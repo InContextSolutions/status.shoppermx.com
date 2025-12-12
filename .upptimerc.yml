@@ -8,6 +8,9 @@ sites:
   - name: ShopperMX
     url: https://www.shoppermx.com
     type: globalping
+  - name: My ShopperMX
+    url: https://my.shoppermx.com
+    type: globalping
   - name: Help Site
     url: https://help.shoppermx.com
     type: globalping
