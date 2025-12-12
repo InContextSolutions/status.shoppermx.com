@@ -17,6 +17,9 @@ sites:
   - name: EveryMan API
     url: https://everyman.shoppermx.com
     type: globalping
+  - name: PlayerInfoService API
+    url: https://prod-incontext-playerinfoservice-webapi.azurewebsites.net
+    type: globalping
 
 status-website:
   cname: status.shoppermx.com
