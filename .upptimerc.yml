@@ -14,6 +14,9 @@ sites:
   - name: Help Site
     url: https://help.shoppermx.com
     type: globalping
+  - name: EveryMan API
+    url: https://everyman.shoppermx.com
+    type: globalping
 
 status-website:
   cname: status.shoppermx.com
