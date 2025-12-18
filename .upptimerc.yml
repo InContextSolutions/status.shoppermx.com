@@ -29,6 +29,9 @@ sites:
   - name: Identity API
     url: https://identity.shoppermx.com/Service.svc
     type: globalping
+  - name: Ops Dashboard
+    url: https://ops.shoppermx.io
+    type: globalping
 
 status-website:
   cname: status.shoppermx.com
