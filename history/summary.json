@@ -4,11 +4,11 @@
     "url": "https://www.incontextsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.incontextsolutions.com.ico",
     "slug": "public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 562,
     "timeDay": 0,
@@ -16,6 +16,7 @@
     "timeMonth": 603,
     "timeYear": 562,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -25,11 +26,11 @@
     "url": "https://www.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.shoppermx.com.ico",
     "slug": "shopper-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 727,
     "timeDay": 0,
@@ -37,6 +38,7 @@
     "timeMonth": 657,
     "timeYear": 727,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -46,11 +48,11 @@
     "url": "https://my.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.shoppermx.com.ico",
     "slug": "my-shopper-mx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 761,
     "timeDay": 0,
@@ -58,6 +60,7 @@
     "timeMonth": 786,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -67,11 +70,11 @@
     "url": "https://help.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/help.shoppermx.com.ico",
     "slug": "help-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 1524,
     "timeDay": 0,
@@ -79,6 +82,7 @@
     "timeMonth": 1522,
     "timeYear": 1524,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -88,11 +92,11 @@
     "url": "https://everyman.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/everyman.shoppermx.com.ico",
     "slug": "every-man-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 607,
     "timeDay": 0,
@@ -100,6 +104,7 @@
     "timeMonth": 615,
     "timeYear": 607,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -109,11 +114,11 @@
     "url": "https://prod-incontext-playerinfoservice-webapi.azurewebsites.net",
     "icon": "https://icons.duckduckgo.com/ip3/prod-incontext-playerinfoservice-webapi.azurewebsites.net.ico",
     "slug": "player-info-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 720,
     "timeDay": 0,
@@ -121,6 +126,7 @@
     "timeMonth": 744,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -130,11 +136,11 @@
     "url": "https://sso.shoppermx.io/version",
     "icon": "https://icons.duckduckgo.com/ip3/sso.shoppermx.io.ico",
     "slug": "oidc-sso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 706,
     "timeDay": 0,
@@ -142,6 +148,7 @@
     "timeMonth": 711,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -151,9 +158,9 @@
     "url": "https://prod-heartbeat.shoppermx.com/",
     "icon": "https://icons.duckduckgo.com/ip3/prod-heartbeat.shoppermx.com.ico",
     "slug": "heartbeat-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
@@ -163,6 +170,7 @@
     "timeMonth": 579,
     "timeYear": 577,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -172,9 +180,9 @@
     "url": "https://identity.shoppermx.com/Service.svc",
     "icon": "https://icons.duckduckgo.com/ip3/identity.shoppermx.com.ico",
     "slug": "identity-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
@@ -184,6 +192,7 @@
     "timeMonth": 843,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
@@ -193,9 +202,9 @@
     "url": "https://ops.shoppermx.io",
     "icon": "https://icons.duckduckgo.com/ip3/ops.shoppermx.io.ico",
     "slug": "ops-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -205,6 +214,7 @@
     "timeMonth": 322,
     "timeYear": 322,
     "dailyMinutesDown": {
+      "2026-01-13": 0,
       "2026-01-03": 28,
       "2025-12-26": 18
     }
