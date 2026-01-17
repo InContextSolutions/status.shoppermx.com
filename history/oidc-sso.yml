@@ -1,7 +1,7 @@
 url: https://sso.shoppermx.io/version
-status: up
-code: 200
-responseTime: 641
-lastUpdated: 2026-01-17T07:11:40.414Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-17T13:53:05.980Z
 startTime: 2025-12-12T14:51:24.060Z
 generator: Upptime <https://github.com/upptime/upptime>
