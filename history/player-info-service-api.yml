@@ -1,7 +1,7 @@
 url: https://prod-incontext-playerinfoservice-webapi.azurewebsites.net
-status: up
-code: 200
-responseTime: 612
-lastUpdated: 2026-01-19T17:55:43.891Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-19T21:32:14.002Z
 startTime: 2025-12-12T14:49:48.667Z
 generator: Upptime <https://github.com/upptime/upptime>
