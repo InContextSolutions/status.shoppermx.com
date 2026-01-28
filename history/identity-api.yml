@@ -1,7 +1,7 @@
 url: https://identity.shoppermx.com/Service.svc
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2026-01-28T05:37:22.682Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-28T06:32:27.552Z
 startTime: 2025-12-12T18:57:51.311Z
 generator: Upptime <https://github.com/upptime/upptime>
