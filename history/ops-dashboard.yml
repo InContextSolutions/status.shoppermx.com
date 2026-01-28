@@ -1,7 +1,7 @@
 url: https://ops.shoppermx.io
-status: up
-code: 200
-responseTime: 205
-lastUpdated: 2026-01-27T23:05:24.593Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-01-28T05:20:51.504Z
 startTime: 2025-12-18T23:09:59.162Z
 generator: Upptime <https://github.com/upptime/upptime>
