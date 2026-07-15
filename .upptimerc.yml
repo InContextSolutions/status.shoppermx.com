@@ -17,20 +17,23 @@ sites:
   - name: EveryMan API
     url: https://everyman.shoppermx.com
     type: globalping
-  - name: PlayerInfoService API
-    url: https://prod-incontext-playerinfoservice-webapi.azurewebsites.net
-    type: globalping
   - name: OIDC / SSO
     url: https://sso.shoppermx.io/version
-    type: globalping
-  - name: HeartbeatService API
-    url: https://prod-heartbeat.shoppermx.com/
     type: globalping
   - name: Identity API
     url: https://identity.shoppermx.com/Service.svc
     type: globalping
   - name: Ops Dashboard
     url: https://ops.shoppermx.io
+    type: globalping
+  - name: Trust Hub
+    url: https://trust.incontextsolutions.com
+    type: globalping
+  - name: Studio
+    url: https://studio.shoppermx.com
+    type: globalping
+  - name: Research Hub
+    url: https://research.shoppermx.com
     type: globalping
 
 status-website:
