@@ -4,16 +4,16 @@
     "url": "https://www.incontextsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.incontextsolutions.com.ico",
     "slug": "public-website",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "95.91%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.59%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.58%",
     "time": 475,
-    "timeDay": 555,
-    "timeWeek": 516,
-    "timeMonth": 630,
+    "timeDay": 557,
+    "timeWeek": 522,
+    "timeMonth": 628,
     "timeYear": 475,
     "dailyMinutesDown": {
       "2025-12-26": 18,
@@ -55,7 +55,7 @@
       "2026-05-02": 17,
       "2026-05-11": 33,
       "2026-05-19": 84,
-      "2026-09-01": 59
+      "2026-09-01": 68
     }
   },
   {
@@ -494,19 +494,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.shoppermx.com.ico",
     "slug": "studio",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
     "time": 2743,
     "timeDay": 4478,
     "timeWeek": 4219,
     "timeMonth": 3467,
     "timeYear": 2743,
     "dailyMinutesDown": {
-      "2026-08-11": 20,
-      "2026-09-01": 10
+      "2026-08-11": 20
     }
   },
   {
