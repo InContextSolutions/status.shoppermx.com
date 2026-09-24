@@ -493,17 +493,17 @@
     "url": "https://studio.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/studio.shoppermx.com.ico",
     "slug": "studio",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.86%",
-    "time": 4269,
-    "timeDay": 7859,
-    "timeWeek": 6491,
-    "timeMonth": 5981,
-    "timeYear": 4269,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.85%",
+    "time": 4230,
+    "timeDay": 6066,
+    "timeWeek": 5911,
+    "timeMonth": 5870,
+    "timeYear": 4230,
     "dailyMinutesDown": {
       "2026-08-11": 20,
       "2026-09-03": 29,
@@ -511,7 +511,7 @@
       "2026-09-08": 20,
       "2026-09-16": 26,
       "2026-09-17": 23,
-      "2026-09-24": 0
+      "2026-09-24": 9
     }
   },
   {
