@@ -181,9 +181,9 @@
     "slug": "help-site",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 2224,
     "timeDay": 2718,
@@ -230,8 +230,7 @@
       "2026-04-30": 72,
       "2026-05-02": 17,
       "2026-05-11": 33,
-      "2026-05-19": 83,
-      "2026-09-29": 6
+      "2026-05-19": 83
     }
   },
   {
@@ -494,16 +493,16 @@
     "url": "https://studio.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/studio.shoppermx.com.ico",
     "slug": "studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.87%",
     "time": 4277,
     "timeDay": 6661,
     "timeWeek": 5525,
-    "timeMonth": 5933,
+    "timeMonth": 6038,
     "timeYear": 4277,
     "dailyMinutesDown": {
       "2026-08-11": 20,
@@ -511,7 +510,8 @@
       "2026-09-07": 22,
       "2026-09-08": 20,
       "2026-09-16": 26,
-      "2026-09-17": 23
+      "2026-09-17": 23,
+      "2026-09-29": 1
     }
   },
   {
