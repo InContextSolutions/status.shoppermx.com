@@ -493,10 +493,10 @@
     "url": "https://studio.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/studio.shoppermx.com.ico",
     "slug": "studio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.67%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.84%",
     "time": 4557,
@@ -512,7 +512,7 @@
       "2026-09-16": 26,
       "2026-09-17": 23,
       "2026-09-30": 18,
-      "2026-10-01": 15
+      "2026-10-01": 16
     }
   },
   {
