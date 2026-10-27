@@ -4,16 +4,16 @@
     "url": "https://www.incontextsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.incontextsolutions.com.ico",
     "slug": "public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.65%",
     "time": 479,
-    "timeDay": 470,
-    "timeWeek": 483,
-    "timeMonth": 495,
+    "timeDay": 447,
+    "timeWeek": 476,
+    "timeMonth": 493,
     "timeYear": 479,
     "dailyMinutesDown": {
       "2025-12-26": 18,
@@ -57,7 +57,7 @@
       "2026-05-19": 84,
       "2026-09-01": 68,
       "2026-10-18": 17,
-      "2026-10-27": 0
+      "2026-10-27": 12
     }
   },
   {
