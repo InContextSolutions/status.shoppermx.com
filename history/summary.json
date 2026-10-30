@@ -122,17 +122,17 @@
     "url": "https://my.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/my.shoppermx.com.ico",
     "slug": "my-shopper-mx",
-    "status": "down",
+    "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.72%",
-    "time": 603,
-    "timeDay": 350,
-    "timeWeek": 479,
-    "timeMonth": 582,
-    "timeYear": 603,
+    "time": 602,
+    "timeDay": 352,
+    "timeWeek": 465,
+    "timeMonth": 575,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2025-12-26": 18,
       "2026-01-03": 28,
@@ -173,7 +173,7 @@
       "2026-05-02": 17,
       "2026-05-11": 33,
       "2026-05-19": 83,
-      "2026-10-30": 0
+      "2026-10-30": 6
     }
   },
   {
