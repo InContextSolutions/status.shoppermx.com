@@ -183,9 +183,9 @@
     "slug": "help-site",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "91.69%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "99.73%",
+    "uptimeDay": "89.89%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.70%",
     "time": 2283,
     "timeDay": 1583,
@@ -233,7 +233,7 @@
       "2026-05-02": 17,
       "2026-05-11": 33,
       "2026-05-19": 83,
-      "2026-11-14": 120
+      "2026-11-14": 146
     }
   },
   {
@@ -243,9 +243,9 @@
     "slug": "every-man-api",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 611,
     "timeDay": 530,
@@ -293,8 +293,7 @@
       "2026-04-30": 72,
       "2026-05-02": 17,
       "2026-05-11": 33,
-      "2026-05-19": 83,
-      "2026-11-14": 14
+      "2026-05-19": 83
     }
   },
   {
@@ -479,19 +478,19 @@
     "url": "https://trust.incontextsolutions.com",
     "icon": "https://icons.duckduckgo.com/ip3/trust.incontextsolutions.com.ico",
     "slug": "trust-hub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 510,
-    "timeWeek": 853,
-    "timeMonth": 579,
-    "timeYear": 602,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.14%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 601,
+    "timeDay": 516,
+    "timeWeek": 812,
+    "timeMonth": 577,
+    "timeYear": 601,
     "dailyMinutesDown": {
-      "2026-11-14": 1
+      "2026-11-14": 27
     }
   },
   {
