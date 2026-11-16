@@ -182,11 +182,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.shoppermx.com.ico",
     "slug": "help-site",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.47%",
-    "uptimeMonth": "94.82%",
-    "uptimeYear": "99.26%",
+    "uptimeWeek": "75.36%",
+    "uptimeMonth": "94.33%",
+    "uptimeYear": "99.22%",
     "time": 2279,
     "timeDay": 1875,
     "timeWeek": 2369,
@@ -233,7 +233,7 @@
       "2026-05-02": 17,
       "2026-05-11": 33,
       "2026-05-19": 83,
-      "2026-11-16": 29,
+      "2026-11-16": 242,
       "2026-11-15": 1440,
       "2026-11-14": 801
     }
@@ -243,9 +243,9 @@
     "url": "https://everyman.shoppermx.com",
     "icon": "https://icons.duckduckgo.com/ip3/everyman.shoppermx.com.ico",
     "slug": "every-man-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
@@ -295,7 +295,8 @@
       "2026-04-30": 72,
       "2026-05-02": 17,
       "2026-05-11": 33,
-      "2026-05-19": 83
+      "2026-05-19": 83,
+      "2026-11-16": 0
     }
   },
   {
